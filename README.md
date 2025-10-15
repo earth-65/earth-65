@@ -36,34 +36,6 @@
 
 <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/9c172019-7cfe-4427-a0d7-da960f96af68" />
 
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/8c215bfe-837d-4028-b29e-a8674f8f33c4" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/6281a6f7-f006-4550-8ac7-dffe67d419d6" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/490299cd-fb2d-43bb-b6bb-5b134256823e" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/37e12018-4df2-4582-b90b-2f968994034f" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/2f1c33f5-703e-4e75-b185-881133b7844f" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/082b8b1f-1934-4452-830f-b692601c17b5" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/bfc33357-6f98-4926-8744-2092197082d5" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/c004b8b3-3753-49c1-8f16-fb2d0129570f" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/81371290-341c-43fa-9e22-dd1715ff691c" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/9b77fd63-82d0-4f88-b920-3be27eebbc8f" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/9b36b138-5158-4752-9828-b6d8e44e3ffe" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/30907778-a79a-4fc6-b011-16bf39ce454e" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/0fade09f-ff50-46d7-aa46-e333f6336d3a" />
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/38c64534-3177-4d22-b3cf-d08af425e3fb" />
-
 
 
 <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/07e76cdb-faa4-4533-ad2e-b1ec0c21be1a" />
